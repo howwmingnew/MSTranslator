@@ -111,3 +111,4 @@ Azure會產生2把金鑰，選擇其中一把金鑰複製並貼到你會用到AP
 ----
 
 [Microsoft Learn: 文字翻譯](https://learn.microsoft.com/zh-tw/azure/cognitive-services/translator/text-translation-overview)
+[Microsoft Azure首頁](https://portal.azure.com/#home)
