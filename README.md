@@ -40,7 +40,7 @@ Azure帳號註冊完成後進入[Azure首頁](https://portal.azure.com/#home)
 ![](https://raw.githubusercontent.com/howwmingnew/MSTranslator/master/ReadMe/Images/04.png)
 <br />
 
-完成後點擊下方`下一步`按鈕2次，到`檢閱 + 建立`頁面，如果沒問題上方會顯示`驗證成功。`，好了就按左下角建立按鈕，這樣資源群組就新增完成了
+完成後點擊下方`下一步`按鈕2次，到`檢閱 + 建立`頁面，如果沒問題上方會顯示`驗證成功。`，好了就按左下角建立按鈕，這樣資源群組就新增完成了<br />
 ![](https://raw.githubusercontent.com/howwmingnew/MSTranslator/master/ReadMe/Images/05.png)
 <br />
 
@@ -83,7 +83,7 @@ Azure帳號註冊完成後進入[Azure首頁](https://portal.azure.com/#home)
 	只有在要求自動偵測語言時，`detectedLanguage` 屬性才會存在於結果物件中
 + `translations`：翻譯結果的陣列。 陣列大小符合透過 to 查詢參數指定的目標語言數。 陣列中的每個項目都包括：
 	+ `to`：字串，代表目標語言的語言代碼
-	+ `text`：字串，提供翻譯文字
+	+ `text`：字串，提供翻譯文字<br />
 ![](https://raw.githubusercontent.com/howwmingnew/MSTranslator/master/ReadMe/Images/13.png)
 <br />
 
@@ -100,7 +100,7 @@ Azure會產生2把金鑰，選擇其中一把金鑰複製並貼到你會用到AP
 以本專案為例，在`TranslatorAPI.cs`的API Request程式碼，修改`Ocp-Apim-Subscription-Key`數值成你自己的金鑰即可
 ![](https://raw.githubusercontent.com/howwmingnew/MSTranslator/master/ReadMe/Images/16.png)
 <br />
-實際成果:
+實際成果:<br />
 ![](https://raw.githubusercontent.com/howwmingnew/MSTranslator/master/ReadMe/Images/18.png)
 <br />
 
