@@ -21,7 +21,7 @@
 
 ----
 
-####新增資源群組
+### 新增資源群組
 <br />
 
 Azure帳號註冊完成後進入[Azure首頁](https://portal.azure.com/#home)
@@ -48,7 +48,7 @@ Azure帳號註冊完成後進入[Azure首頁](https://portal.azure.com/#home)
 ![](https://raw.githubusercontent.com/howwmingnew/MSTranslator/master/ReadMe/Images/06.png)
 <br /> <br />
 
-####建立翻譯工具
+### 建立翻譯工具
 <br />
 
 資源群組完成後就在Azure網頁上方搜尋列輸入 `翻譯工具`點擊第一個搜尋結果進入網頁，或是[點此連結](https://portal.azure.com/#view/Microsoft_Azure_ProjectOxford/CognitiveServicesHub/~/TextTranslation)
@@ -87,7 +87,7 @@ Azure帳號註冊完成後進入[Azure首頁](https://portal.azure.com/#home)
 ![](https://raw.githubusercontent.com/howwmingnew/MSTranslator/master/ReadMe/Images/13.png)
 <br />
 
-####取得金鑰(Access token)
+### 取得金鑰(Access token)
 
 最後最重要的，如果要使用翻譯工具API就需要拿到它的金鑰，在概觀頁面點擊`按一下這裡以檢視端點`或是`按一下這裡以管理金鑰`
 ![](https://raw.githubusercontent.com/howwmingnew/MSTranslator/master/ReadMe/Images/14.png)
